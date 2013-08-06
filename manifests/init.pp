@@ -3,9 +3,10 @@
 # Examples
 #
 #   include cyberduck
+#
 class cyberduck {
   package { 'Cyberduck':
     provider   => 'compressed_app',
-    source     => 'http://cyberduck.ch/Cyberduck-4.3.1.zip'
+    source     => 'https://s3.amazonaws.com/better-boxen/osx/Cyberduck-12467.tar.gz'
   }
 }
