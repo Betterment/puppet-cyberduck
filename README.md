@@ -2,7 +2,7 @@
 [Cyberduck](http://cyberduck.ch/) FTP, SFTP, WebDAV & cloud
 storage browser for Mac & Windows.
 
-[![Build Status](https://travis-ci.org/boxen/puppet-cyberduck.png)](https://travis-ci.org/boxen/puppet-cyberduck)
+[![Build Status](https://travis-ci.org/Betterment/puppet-cyberduck.png)](https://travis-ci.org/Betterment/puppet-cyberduck)
 
 ## Usage
 
